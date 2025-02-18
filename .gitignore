@@ -1,0 +1,40 @@
+# Project specific results and output files
+**/test_results/
+**/output/
+**/results/
+test_multiplication_results.txt
+matrix_results.txt
+*.result
+*.output
+
+# Node.js specific
+node_modules/
+package-lock.json
+npm-debug.log
+yarn.lock
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# Temporary and cache files
+*.tmp
+*.temp
+*.cache
+.cache/
+
+# Debug logs
+debug.log
+*.log
