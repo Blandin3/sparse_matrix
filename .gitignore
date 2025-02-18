@@ -1,6 +1,6 @@
 # Project specific results and output files
-results/
 results/*
+!results/.gitkeep
 *.result
 *.output
 test_results/
