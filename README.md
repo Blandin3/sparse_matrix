@@ -2,6 +2,18 @@
 
 This project implements a sparse matrix data structure and operations in JavaScript. It provides efficient storage and manipulation of matrices where most elements are zero.
 
+## Getting Started
+
+### Prerequisites
+- Node.js installed on your system
+- Git for version control
+
+### Repository Access
+Clone the repository using:
+```bash
+git clone https://github.com/Blandin3/sparse_matrix.git
+```
+
 ## Features
 
 - Sparse matrix representation using Map data structure
